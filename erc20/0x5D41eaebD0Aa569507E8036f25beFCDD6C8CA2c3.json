@@ -1,0 +1,19 @@
+{
+    "symbol": "UINX",
+    "address": "0x5D41eaebD0Aa569507E8036f25beFCDD6C8CA2c3",
+    "overview":{
+          "en": "Unix is the abbreviation of UnixSwap. The success of Unix comes from the core technology of uniswap. The development core team of Unix comes from the United States, China and South Korea. Through the uniswap technology, it independently forks and upgrades to a cluster interactive intelligent aggregator. The platform aggregates a variety of protocols to realize the interaction of different decentralized liquidity platform assets."
+    },
+    "email": "asd577465414@gmail.com",
+    "website": "http://unitswap.info",
+    "whitepaper": "",
+    "state": "NORMAL",
+    "published_on": "2019-09-30",
+    "initial_price":{
+          "ETH":"0.22339395 ETH"
+    },
+    "links": { 
+      "github": "https://github.com/unitewap",
+      "website": "http://eemtrader.com/" 
+    }
+  }
